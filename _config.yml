@@ -1,0 +1,8 @@
+title: NeuroGEARS
+description: Neuroscience, Games, Interaction, Robotics
+google_analytics:
+theme: minima
+
+exclude:
+  - Gemfile
+  - Gemfile.lock

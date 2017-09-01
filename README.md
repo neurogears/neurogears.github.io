@@ -1,2 +1,2 @@
-# neurogears.github.io
-Neuroscience, games, interaction, and robotics
+# NeuroGEARS
+Neuroscience, Games, Interaction, Robotics
