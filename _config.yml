@@ -3,6 +3,9 @@ description: Neuroscience, Games, Interaction, Robotics
 google_analytics:
 theme: minima
 
+twitter_username: neurogears
+github_username:  neurogears
+
 exclude:
   - Gemfile
   - Gemfile.lock
