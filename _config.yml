@@ -1,10 +1,12 @@
 title: NeuroGEARS
 description: Neuroscience, Games, Interaction, Robotics
 google_analytics:
-theme: minima
+theme: jekyll-theme-cayman
 
 twitter_username: neurogears
 github_username:  neurogears
+email: contact@neurogears.org
+copyright: © 2017 NeuroGEARS Ltd.
 
 exclude:
   - Gemfile
