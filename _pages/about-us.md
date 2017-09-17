@@ -6,7 +6,7 @@ title: "About Us"
 
 Brains interact with technology to turn imagination into reality.
 
-NeuroGEARS is born from the desire to explore and express inspiring possibilities of technology; and to make those possibilities more accessible to everyone. We are a network of explorers who like to imagine, use, and teach technology, so that more people can turn their dreams into reality.
+NeuroGEARS is born from the desire to explore and create inspiring possibilities with technology; and to make those possibilities more accessible to everyone. We are a network of explorers who like to imagine, use, and teach technology, so that more people can turn their dreams into reality.
 
 ## Gonçalo Lopes
 
