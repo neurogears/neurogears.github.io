@@ -8,3 +8,4 @@ layout: splash
   <a class="video-link" caption="An interactive particle system used to augment the .txt dance performance." href="https://www.youtube.com/watch?v=jKB0d9vsfgA&amp;start=108"><img class="thumbnail" src="{{ site.baseurl }}/assets/images/ponto-txt.jpg"/></a>
   <a class="video-link" caption="A simultaneous localization and mapping system for a robotic telepresence platform." href="https://www.youtube.com/watch?v=JrhGTIT-y5M&amp;start=44"><img class="thumbnail" src="{{ site.baseurl }}/assets/images/project-navi.jpg"/></a>
 </div>
+<a href="{{ site.baseurl }}/about-us/" class="btn">About Us</a>

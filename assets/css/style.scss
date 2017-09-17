@@ -34,6 +34,20 @@
 @media screen and (min-width: 42em) and (max-width: 64em) { .splash-header { padding: 3rem 4rem; } }
 @media screen and (max-width: 42em) { .splash-header { padding: 2rem 1rem; } }
 
+.page-header {
+    padding-bottom: 30px;
+}
+
+.main-content {
+    img {
+        float: left;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-right: 20px;
+        height: 20vh;
+    }
+}
+
 .site-footer {
     height: 20vh;
     padding-top: 0rem;

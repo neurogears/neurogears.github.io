@@ -8,6 +8,8 @@ github_username:  neurogears
 email: contact@neurogears.org
 copyright: © 2017 NeuroGEARS Ltd.
 
+include:
+  - _pages
 exclude:
   - Gemfile
   - Gemfile.lock
