@@ -43,8 +43,12 @@
         padding-top: 10px;
         padding-bottom: 10px;
         padding-right: 20px;
-        height: 20vh;
+        height: 200px;
     }
+
+    @media screen and (min-width: 64em) { img { height: 200px; } }
+    @media screen and (min-width: 42em) and (max-width: 64em) { img { height: 200px; } }
+    @media screen and (max-width: 42em) { img { height: 150px; } }
 }
 
 .site-footer {
