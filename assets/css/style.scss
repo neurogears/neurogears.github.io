@@ -38,6 +38,19 @@
 }
 
 .main-content {
+    h1 {
+        font-weight: bold;
+    }
+
+    h1:after {
+        display: block;
+        height: 1px;
+        content: " ";
+        text-shadow: none;
+        background-color: #999;
+        width: 100%;
+    }
+
     img {
         float: left;
         padding-top: 10px;
