@@ -25,3 +25,14 @@ Along the way, he extended his experience making interactive systems to rodents 
 João is a roboticist and software engineer with a long experience developing real-time interactive applications. Having worked for pioneer tech startups in robotics and augmented reality, he is used to mixing sensors, actuators, and embedded systems to create next generation human computer interfaces. His projects span many fields, including technologically enhanced dance performances, interactive museums, and autonomous search and rescue robots.
 
 More recently, João joined the Champalimaud Neuroscience Programme to help design high-end systems for electrophysiology. He also collaborated in the development of the Bonsai programming language.
+
+# Partners
+
+<div class="column-group">
+  <div>
+    <a href="http://artica.cc/">
+      <img src="{{ site.baseurl }}/assets/images/artica.svg" alt="Artica"/>
+    </a>
+  </div>
+  <div class="column-group"/>
+</div>
