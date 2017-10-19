@@ -1,67 +1,53 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
+---
+layout: default
+---
 
-{% seo %}
-    <meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  </head>
-  <body>
-    <section class="splash-header">
-      {% include header.html %}
-      {{ content }}
-    </section>
+<section class="splash-header">
+  {% include header.html %}
+  {{ content }}
+</section>
 
-    <section class="main-content">
-      {% include footer.html %}
-    </section>
+<section class="main-content">
+  {% include footer.html %}
+</section>
 
-    {% include analytics.html %}
+<!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+<script src="{{ site.baseurl }}/assets/js/jquery-1.12.4.min.js"></script>
 
-    <!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
-    <script src="{{ site.baseurl }}/assets/js/jquery-1.12.4.min.js"></script>
+<!-- Magnific Popup core JS file -->
+<script src="{{ site.baseurl }}/assets/js/jquery.magnific-popup.js"></script>
 
-    <!-- Magnific Popup core JS file -->
-    <script src="{{ site.baseurl }}/assets/js/jquery.magnific-popup.js"></script>
-
-    <script type="text/javascript">
-      $(document).ready(function() {
-        $('.video-link').magnificPopup(
-        {
-          type: 'iframe',
-          iframe: {
-            markup: '<div class="mfp-iframe-scaler">'+
-                    '<div class="mfp-close"></div>'+
-                    '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
-                    '<div class="mfp-title"></div>'+
-                    '</div>', // HTML markup of popup, `mfp-close` will be replaced by the close button
-                    
-            patterns: {
-              youtube: {
-                index: 'youtube.com/', // String that detects type of video (in this case YouTube). Simply via url.indexOf(index).
-                id: function(url) {
-                  var id;
-                  id = 'v=';
-                  url = url.substr(url.lastIndexOf(id)+id.length, url.length).replace('&', '?');
-                  url += (url.indexOf('?') !== -1 ? '&' : '?') + 'autoplay=1';
-                  return url;
-                },
-                src: '//www.youtube.com/embed/%id%' // URL that will be set as a source for iframe.
-              }
-            }
-          },
-          callbacks: {
-            markupParse: function(template, values, item) {
-              values.title = item.el.attr('caption');
-            }
-          },
-        });
-      });
-    </script>
-
-  </body>
-</html>
+<script type="text/javascript">
+  $(document).ready(function() {
+    $('.video-link').magnificPopup(
+    {
+      type: 'iframe',
+      iframe: {
+        markup: '<div class="mfp-iframe-scaler">'+
+                '<div class="mfp-close"></div>'+
+                '<iframe class="mfp-iframe" frameborder="0" allowfullscreen></iframe>'+
+                '<div class="mfp-title"></div>'+
+                '</div>', // HTML markup of popup, `mfp-close` will be replaced by the close button
+                
+        patterns: {
+          youtube: {
+            index: 'youtube.com/', // String that detects type of video (in this case YouTube). Simply via url.indexOf(index).
+            id: function(url) {
+              var id;
+              id = 'v=';
+              url = url.substr(url.lastIndexOf(id)+id.length, url.length).replace('&', '?');
+              url += (url.indexOf('?') !== -1 ? '&' : '?') + 'autoplay=1';
+              return url;
+            },
+            src: '//www.youtube.com/embed/%id%' // URL that will be set as a source for iframe.
+          }
+        }
+      },
+      callbacks: {
+        markupParse: function(template, values, item) {
+          values.title = item.el.attr('caption');
+        }
+      },
+    });
+  });
+</script>
