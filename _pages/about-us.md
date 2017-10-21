@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 permalink: /about-us/
 title: "About Us"
 ---

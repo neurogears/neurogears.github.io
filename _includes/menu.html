@@ -1,0 +1,4 @@
+<a href="{{ site.baseurl }}/" class="btn">Home</a>
+{% for spage in site.pages %}
+<a href="{{ site.baseurl }}{{ spage.permalink }}" class="btn">{{ spage.title }}</a>
+{% endfor %}
