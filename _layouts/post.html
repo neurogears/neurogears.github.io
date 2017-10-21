@@ -1,0 +1,36 @@
+---
+layout: single
+---
+
+{{ page.date | date: "%-d %B %Y" }}
+<h1>{{ page.title | default: site.github.repository_name }}</h1>
+{{ content }}
+{% if page.gallery %}
+<!-- jQuery 1.7.2+ or Zepto.js 1.0+ -->
+<script src="{{ site.baseurl }}/assets/js/jquery-1.12.4.min.js"></script>
+
+<!-- Magnific Popup core JS file -->
+<script src="{{ site.baseurl }}/assets/js/jquery.magnific-popup.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function () {
+    $('.popup-gallery').magnificPopup({
+      delegate: 'a',
+      type: 'image',
+      tLoading: 'Loading image #%curr%...',
+      mainClass: 'mfp-img-mobile',
+      gallery: {
+        enabled: true,
+        navigateByImgClick: true,
+        preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+      },
+      image: {
+        tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+        titleSrc: function (item) {
+          return item.el.attr('title') + '<small>{{ page.gallery.credit }}</small>';
+        }
+      }
+    });
+  });
+</script>
+{% endif %}
