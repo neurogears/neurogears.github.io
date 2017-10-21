@@ -4,10 +4,12 @@ layout: default
 
 <section class="splash-header">
   {% include header.html %}
-  {{ content }}
+  {% include video-gallery.html %}
+  {% include menu.html %}
 </section>
 
 <section class="main-content">
+  {{ content }}
   {% include footer.html %}
 </section>
 

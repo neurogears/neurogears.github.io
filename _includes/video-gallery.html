@@ -1,0 +1,9 @@
+{% if page.video-gallery %}
+<div>
+  {% for video in page.video-gallery %}
+  <a class="video-link" caption="{{ video.caption }}" href="{{ video.url }}">
+    <img class="thumbnail" src="{{ site.baseurl }}{{ video.thumbnail }}"/>
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
