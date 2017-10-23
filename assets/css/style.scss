@@ -59,15 +59,15 @@
     .img-profile {
         width: unset;
         margin: unset;
-        padding-top: 10px;
-        padding-bottom: 10px;
+        padding-top: 7px;
+        padding-bottom: 5px;
         padding-right: 20px;
-        height: 200px;
+        height: 180px;
     }
 
-    @media screen and (min-width: 64em) { .img-profile { height: 200px; } }
-    @media screen and (min-width: 42em) and (max-width: 64em) { .img-profile { height: 200px; } }
-    @media screen and (max-width: 42em) { .img-profile { height: 150px; } }
+    @media screen and (min-width: 64em) { .img-profile { height: 180px; } }
+    @media screen and (min-width: 42em) and (max-width: 64em) { .img-profile { height: 180px; } }
+    @media screen and (max-width: 42em) { .img-profile { padding-right: 15px; height: 140px; } }
 }
 
 .column-group {
