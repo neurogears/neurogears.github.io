@@ -6,9 +6,9 @@ title: "About Us"
 
 Brains interact with technology to turn imagination into reality.
 
-NeuroGEARS is an interactive technology company bridging Neuroscience, Games, Interaction and Robotics, born from the desire to explore and create inspiring interfaces with technology---and to make technology itself more accessible to everyone.
+NeuroGEARS is a technology company bridging Neuroscience, Games, Interaction, and Robotics, born from the desire to explore and create inspiring interfaces for augmenting human experience---and to make technology itself more accessible to everyone.
 
-We are a network of explorers who like to imagine, use, and teach technology, having an extensive background in virtual and augmented reality, interactive installations, robotics, and neuroscience.
+We are a network of explorers who like to imagine, use, and teach technology, having an extensive background building virtual and augmented reality systems, interactive installations, autonomous robots, and neuroscience research.
 
 ## Gonçalo Lopes
 
