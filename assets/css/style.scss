@@ -78,13 +78,13 @@
         clear: none;
         padding-top: 10px;
         padding-bottom: 10px;
-        padding-right: 20px;
-        width: 50%;
+        padding-right: 10px;
+        width: 40%;
     }
 
-    @media screen and (min-width: 64em) { img { width: 50%; } }
-    @media screen and (min-width: 42em) and (max-width: 64em) { img { width: 50%; } }
-    @media screen and (max-width: 42em) { img { width: 75%; } }
+    @media screen and (min-width: 64em) { img { width: 40%; } }
+    @media screen and (min-width: 42em) and (max-width: 64em) { img { width: 40%; } }
+    @media screen and (max-width: 42em) { img { width: 60%; } }
 }
 
 .gallery {

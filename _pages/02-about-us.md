@@ -52,5 +52,10 @@ He has worked on eTextile music controllers, virtual reality bike systems, inter
       <img src="{{ site.baseurl }}/assets/images/artica.svg" alt="Artica"/>
     </a>
   </div>
+  <div>
+    <a href="https://plataforma.edu.pt/">
+      <img src="{{ site.baseurl }}/assets/images/pca.svg" alt="Plataforma Ciencia Aberta"/>
+    </a>
+  </div>
   <div class="column-group"/>
 </div>
