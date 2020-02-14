@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 twitter_username: neurogears
 github_username:  neurogears
 email: contact@neurogears.org
-copyright: © 2018 NeuroGEARS Ltd.
+copyright: © 2020 NeuroGEARS Ltd.
 
 plugins:
   - jekyll-feed
