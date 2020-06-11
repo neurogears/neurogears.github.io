@@ -40,9 +40,9 @@ He is the main developer of the flyPAD, an automated device that uses capacitive
 
 ![Cedric]({{ site.baseurl }}/assets/images/chonnet.jpg){:class="img-profile"}
 
-Cedric is a research engineer in the HCI group at ISIR, the robotics lab of Sorbonne University, Paris. With a background in embedded systems, he explores the connections between physical computing, interactivity and the arts by travelling the world of hackerspaces. Cedric worked as a firmware engineer and InterHacktivist at Sifteo in San Francisco, co-founded a couple of companies developing tangible interfaces, and started to create interactive systems worldwide.
+Cedric is a visiting scientist at the MIT Media Lab. With a background in embedded systems, he explores the connections between physical computing, interactivity and the arts by travelling the world of hackerspaces and research labs. Cedric worked as a firmware engineer and InterHacktivist at Sifteo in San Francisco, co-founded a couple of companies developing tangible interfaces, and created interactive systems worldwide.
 
-He has worked on eTextile music controllers, virtual reality bike systems, interactive art pieces, modular implants, 3D positioning systems and many other Open Source projects.
+He has worked on eTextile music controllers, immersive systems, interactive art pieces, modular implants, 3D positioning systems and many other open source projects.
 
 # Partners
 
