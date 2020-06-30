@@ -7,32 +7,13 @@ image: /assets/images/190912-ubicomp-hivetracker.jpg
 excerpt: Excited to present our latest developments on the HiveTracker project at UbiComp 2019!
 ---
 
-The "[Ubiquitous Computing](https://en.wikipedia.org/wiki/Ubiquitous_computing)" field of research integrates pervasive, wireless, embedded, wearable and/or mobile technologies to bridge the gaps between the digital and physical worlds.
-
-[UbiComp](http://ubicomp.org/ubicomp2019) is a premier venue for presenting research in the design, development, deployment, evaluation and understanding of ubiquitous computing systems.
-
-We demonstrated our 3d position tracker "[HiveTracker](https://HiveTracker.github.io)" and its latest [cross platform interface](https://github.com/hivetracker/hivetrackerjs). \\
-Below, we visualize the position in a smartphone, and in a computer:
+The [HiveTracker](https://hivetracker.github.io/) is a small & affordable system for scalable and accurate 3D tracking developed over the past two years. It builds off the existing SteamVR tracking system by Valve, Inc. and together with a 9DoF inertial measurement unit (IMU), allows sub-millimetric 3D positioning at scale. We have recently presented our latest cross-platform logging and visualization interface at [UbiComp 2019](http://ubicomp.org/ubicomp2019).
 
 <div class="gallery">
   <div class="popup-gallery">
-    <a title="Smartphone demo"
-       href="/assets/images/190912-ubicomp-hivetracker-phone.gif">
-       <img src="/assets/images/190912-ubicomp-hivetracker-phone.gif">
-    </a>
-    <a title="Computer demo"
-       href="/assets/images/190912-ubicomp-hivetracker-pc.gif">
-       <img src="/assets/images/190912-ubicomp-hivetracker-pc.gif">
-    </a>
+    <a title="Smartphone demo"><img src="/assets/images/190912-ubicomp-hivetracker-phone.gif"></a>
+    <a title="Computer demo"><img src="/assets/images/190912-ubicomp-hivetracker-pc.gif"></a>
   </div>
 </div>
 
-In our publication, we also present a characterization of the optical distortions of the HTC Vive lighthouses, as well as an proposal for an adaptive calibration and 3D reconstruction. You can download it here:
-
-<div class="gallery" align="center">
-   <a title="Download the paper"
-      href="https://hivetracker.github.io/files/UbiComp19-HiveTracker.pdf">
-      <img src="/assets/images/190912-ubicomp-hivetracker-paper.jpg">
-   </a>
-</div>
-
+The original Lighthouse 3D tracking combines real-time readout of dozens of photosensors in a single object, requiring an expensive dedicated FPGA for the accurate readout of the timing of the external beacons. The main innovation of the HiveTracker project is to explore a miniaturization tradeoff by using less photosensors and a single inexpensive microcontroller to accurately log external beacon signals for localization. Read more about the project in the [HiveTracker Hackaday page](https://hackaday.io/project/160182-hivetracker) and the [UbiComp extended abstract](https://dl.acm.org/doi/10.1145/3341162.3349295).
