@@ -13,6 +13,8 @@ plugins:
 collections:
   pages:
     output: true
+  jobs:
+    output: true
 exclude:
   - Gemfile
   - Gemfile.lock
