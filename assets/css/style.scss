@@ -149,10 +149,6 @@
         text-decoration: none;
     }
 
-    a:hover {
-        opacity: 0.75;
-    }
-
     span {
         display: block;
     }
@@ -172,6 +168,10 @@
     @media screen and (min-width: 64em) { width: 29.33%; }
     @media screen and (min-width: 42em) and (max-width: 64em) { width: 46%; }
     @media screen and (max-width: 42em) { width: 96%; }
+}
+
+.category-item:hover {
+    opacity: 0.75;
 }
 
 .site-footer {
