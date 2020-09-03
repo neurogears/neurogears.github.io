@@ -6,7 +6,7 @@ title: "Terms & Conditions"
 
 ## Acceptance of Terms
 
-NeuroGEARS Ltd (“NGL”) offers consulting, training and research and development services to any person (“Client”) under the terms and conditions specified below. The Client agrees that these terms and conditions shall constitute the complete and exclusive agreement between NGL and the Client. Any different, additional, or conflicting conditions of service proposed by the Client shall not be binding, unless expressly agreed to and confirmed by NGL in writing.
+NeuroGEARS Ltd (“NGL”) offers consulting, training, and research and development services to any person (“Client”) under the terms and conditions specified below. The Client agrees that these terms and conditions shall constitute the complete and exclusive agreement between NGL and the Client. Any different, additional, or conflicting conditions of service proposed by the Client shall not be binding, unless expressly agreed to and confirmed by NGL in writing.
 
 ## Fees and Payment
 
