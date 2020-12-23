@@ -18,6 +18,15 @@ Gonçalo is a software engineer turned neuroscientist, fascinated by the behavio
 
 Along the way, he extended his experience making interactive systems to rodents and other animal models. Gonçalo developed the Bonsai visual programming language as a way to rapidly prototype interactive neuroscience experiments.
 
+## André Almeida
+
+![André]({{ site.baseurl }}/assets/images/aalmeida.jpg){:class="img-profile"}
+
+André is a software engineer that specialized in Arts and Technology using Mixed Reality, Multimedia, Robotics, Physical Computing and Interactive Systems. 
+Is fascinated by technological creativity. Back in 2004 started working in Ylabs research division of YDreams then became an expert in the creation of interactive systems and Augmented Reality. In 2011 he created Artica Creative Computing. Artica works on Human Computer Interaction, Electronics, Game Design, Creative Design AR & VR, Video Projection & Mapping, Physical Computing, Robotics, Digital Fabrication, Prototyping, Education and all things creative. 
+
+André likes human relationships involving everyone in agile development cycles and working together to a working, professional and affordable solution under realistic development timelines. 
+
 # Collaborators
 
 ## João Frazão
@@ -35,14 +44,6 @@ More recently, João joined the Champalimaud Neuroscience Programme to help desi
 Pavel is a MD. and PhD in Neuroscience (SISSA, Trieste, Italy) with more than 15 years of research experience in the fields of animal and human physiology, and behaviour. He is passionate about developing new tools that make research easier, and more fun. For the past 6 years, Pavel has been working on elucidating the molecular and neuronal mechanisms controlling feeding behaviour in the lab of Carlos Ribeiro at Champalimaud Research, using *Drosophila melanogaster* as a model organism.
 
 He is the main developer of the flyPAD, an automated device that uses capacitive sensors for high-throughput measurement of feeding behaviour in Drosophila.
-
-## Cedric Honnet
-
-![Cedric]({{ site.baseurl }}/assets/images/chonnet.jpg){:class="img-profile"}
-
-Cedric is a visiting scientist at the MIT Media Lab. With a background in embedded systems, he explores the connections between physical computing, interactivity and the arts by travelling the world of hackerspaces and research labs. Cedric worked as a firmware engineer and InterHacktivist at Sifteo in San Francisco, co-founded a couple of companies developing tangible interfaces, and created interactive systems worldwide.
-
-He has worked on eTextile music controllers, immersive systems, interactive art pieces, modular implants, 3D positioning systems and many other open source projects.
 
 # Partners
 
