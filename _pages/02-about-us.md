@@ -25,7 +25,15 @@ Along the way, he extended his experience making interactive systems to rodents 
 André is a software engineer that specialized in Arts and Technology using Mixed Reality, Multimedia, Robotics, Physical Computing and Interactive Systems. 
 Is fascinated by technological creativity. Back in 2004 started working in Ylabs research division of YDreams then became an expert in the creation of interactive systems and Augmented Reality. In 2011 he created Artica Creative Computing. Artica works on Human Computer Interaction, Electronics, Game Design, Creative Design AR & VR, Video Projection & Mapping, Physical Computing, Robotics, Digital Fabrication, Prototyping, Education and all things creative. 
 
-André likes human relationships involving everyone in agile development cycles and working together to a working, professional and affordable solution under realistic development timelines. 
+André likes human relationships involving everyone in agile development cycles and working together to a working, professional and affordable solution under realistic development timelines.
+
+## Danbee Kim
+
+![Danbee]({{ site.baseurl }}/assets/images/dkim.jpg){:class="img-profile"}
+
+Dr. Danbee "Tauntaun" Kim (she/her/they/them) is a Korean-American neuroscientist and teacher who earned her BSc in Brain and Cognitive Sciences from MIT, where they also spent 10 years acting, directing, choreographing, costuming, and writing original content for the MIT Musical Theater Guild. While completing her PhD with Adam Kampff at the Champalimaud Neuroscience Program, Danbee authored of a graphic novel version of their doctoral dissertation called The First VIRS.
+
+Danbee’s current focus is developing a framework for precisely observing nervous systems in increasingly natural settings, aka “field neuroscience”. This includes studying cuttlefish, building interactive exhibits, and using comics and circus as a tool for education and research. To learn more, you can visit www.danbeekim.org.
 
 # Collaborators
 
