@@ -39,9 +39,9 @@ Danbee’s current focus is developing a framework for precisely observing nervo
 
 ![Fiona]({{ site.baseurl }}/assets/images/fzisch.jpg){:class="img-profile"}
 
-Dr Fiona Zisch works across architecture, cognitive science, and choreography. Her research explores cognitive ecologies with a focus on intuition and embodiment and how ‘neuroarchitecture’ as transdisciplinary threshold might develop more radical, critical, and progressive thinking. Fiona gained her PhD at the Bartlett School of Architecture and the Institute of Behavioural Neuroscience, UCL. She lectures on the Bartlett MArch Design for Performance and Interaction where she runs the Research Pathway ‘Radical Realities’ and leads History and Theory.
+Dr. Fiona Zisch works across architecture, cognitive science, and choreography. Her research explores cognitive ecologies with a focus on intuition and embodiment and how ‘neuroarchitecture’ as transdisciplinary threshold might develop more radical, critical, and progressive thinking. Fiona gained her PhD at the Bartlett School of Architecture and the Institute of Behavioural Neuroscience, UCL.
 
-She is a collaborator in the UCL research group Spierslab and also lectures at the School of Architecture at the University of Innsbruck.
+Fiona lectures on the Bartlett MArch Design for Performance and Interaction where she runs the Research Pathway ‘Radical Realities’ and leads History and Theory. She is a collaborator in the UCL research group Spierslab and also lectures at the School of Architecture at the University of Innsbruck.
 
 # Collaborators
 
