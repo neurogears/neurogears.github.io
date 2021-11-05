@@ -4,11 +4,11 @@ permalink: /about-us/
 title: "About Us"
 ---
 
-Brains interact with technology to turn imagination into reality.
+NeuroGEARS is a creative research group bridging Neuroscience, Games, Interaction, and Robotics. We engage with top research and academic institutions worldwide to reimagine science by using and creating open-source tools which are accessible, understandable and modifiable. Our core mission is to make scientific knowledge available to everyone, and to empower people to follow their curiosity, wherever it may lead.
 
-NeuroGEARS is a technology company bridging Neuroscience, Games, Interaction, and Robotics, born from the desire to explore and create inspiring interfaces for augmenting human experience---and to make technology itself more accessible to everyone.
+We want people to be able to take apart their tools to understand how they work, so that anyone can quickly recombine and repurpose technology. To do this we imagine, create, and teach technology, using storytelling and interactive experiences, and helping people to apply scientific methods of understanding to their daily lives.
 
-We are a network of explorers who like to imagine, use, and teach technology, having an extensive background building virtual and augmented reality systems, interactive installations, autonomous robots, and neuroscience research.
+We are a network of explorers who believe in asking profound questions by engaging in responsible, inventive, and rigorous research that also incorporates humour, sass, and deep fun. To this end we bring an extensive background in building virtual and augmented reality systems, interactive installations, autonomous robots, and neuroscience research.
 
 ## Gonçalo Lopes
 
@@ -22,8 +22,8 @@ Along the way, he extended his experience making interactive systems to rodents 
 
 ![André]({{ site.baseurl }}/assets/images/aalmeida.jpg){:class="img-profile"}
 
-André is a software engineer that specialized in Arts and Technology using Mixed Reality, Multimedia, Robotics, Physical Computing and Interactive Systems. 
-Is fascinated by technological creativity. Back in 2004 started working in Ylabs research division of YDreams then became an expert in the creation of interactive systems and Augmented Reality. In 2011 he created Artica Creative Computing. Artica works on Human Computer Interaction, Electronics, Game Design, Creative Design AR & VR, Video Projection & Mapping, Physical Computing, Robotics, Digital Fabrication, Prototyping, Education and all things creative. 
+André is a software engineer that specialized in Arts and Technology using Mixed Reality, Multimedia, Robotics, Physical Computing and Interactive Systems.
+Is fascinated by technological creativity. Back in 2004 started working in Ylabs research division of YDreams then became an expert in the creation of interactive systems and Augmented Reality. In 2011 he created Artica Creative Computing. Artica works on Human Computer Interaction, Electronics, Game Design, Creative Design AR & VR, Video Projection & Mapping, Physical Computing, Robotics, Digital Fabrication, Prototyping, Education and all things creative.
 
 André likes human relationships involving everyone in agile development cycles and working together to a working, professional and affordable solution under realistic development timelines.
 
@@ -49,7 +49,7 @@ More recently, João joined the Champalimaud Neuroscience Programme to help desi
 
 ![Pavel]({{ site.baseurl }}/assets/images/pitskov.jpg){:class="img-profile"}
 
-Pavel is a MD. and PhD in Neuroscience (SISSA, Trieste, Italy) with more than 15 years of research experience in the fields of animal and human physiology, and behaviour. He is passionate about developing new tools that make research easier, and more fun. For the past 6 years, Pavel has been working on elucidating the molecular and neuronal mechanisms controlling feeding behaviour in the lab of Carlos Ribeiro at Champalimaud Research, using *Drosophila melanogaster* as a model organism.
+Pavel is a MD. and PhD in Neuroscience (SISSA, Trieste, Italy) with more than 15 years of research experience in the fields of animal and human physiology, and behaviour. He is passionate about developing new tools that make research easier, and more fun. For the past 6 years, Pavel has been working on elucidating the molecular and neuronal mechanisms controlling feeding behaviour in the lab of Carlos Ribeiro at Champalimaud Research, using _Drosophila melanogaster_ as a model organism.
 
 He is the main developer of the flyPAD, an automated device that uses capacitive sensors for high-throughput measurement of feeding behaviour in Drosophila.
 
