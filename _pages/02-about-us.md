@@ -35,6 +35,14 @@ Dr. Danbee "Tauntaun" Kim (she/her/they/them) is a Korean-American neuroscientis
 
 Danbee’s current focus is developing a framework for precisely observing nervous systems in increasingly natural settings, aka “field neuroscience”. This includes studying cuttlefish, building interactive exhibits, and using comics and circus as a tool for education and research. To learn more, you can visit www.danbeekim.org.
 
+## Fiona Zisch
+
+![Fiona]({{ site.baseurl }}/assets/images/fzisch.jpg){:class="img-profile"}
+
+Dr Fiona Zisch works across architecture, cognitive science, and choreography. Her research explores cognitive ecologies with a focus on intuition and embodiment and how ‘neuroarchitecture’ as transdisciplinary threshold might develop more radical, critical, and progressive thinking. Fiona gained her PhD at the Bartlett School of Architecture and the Institute of Behavioural Neuroscience, UCL. She lectures on the Bartlett MArch Design for Performance and Interaction where she runs the Research Pathway ‘Radical Realities’ and leads History and Theory.
+
+She is a collaborator in the UCL research group Spierslab and also lectures at the School of Architecture at the University of Innsbruck.
+
 # Collaborators
 
 ## João Frazão
