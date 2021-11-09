@@ -8,7 +8,7 @@ NeuroGEARS is a creative research group bridging Neuroscience, Games, Interactio
 
 We want people to be able to take apart their tools to understand how they work, so that anyone can quickly recombine and repurpose technology. To do this we imagine, create, and teach technology, using storytelling and interactive experiences, and helping people to apply scientific methods of understanding to their daily lives.
 
-We are a network of explorers who believe in asking profound questions by engaging in responsible, inventive, and rigorous research that also incorporates humour, sass, and deep fun. To this end we bring an extensive background in building virtual and augmented reality systems, interactive installations, autonomous robots, and neuroscience research.
+We are a network of explorers who believe in asking profound questions by engaging in responsible, inventive, and rigorous research that also incorporates humour, sass, and deep fun. To this end we bring an extensive background in building virtual and augmented reality systems, interactive installations, autonomous robots, performing arts, and neuroscience research.
 
 ## Gonçalo Lopes
 
