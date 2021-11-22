@@ -31,9 +31,9 @@ André likes human relationships involving everyone in agile development cycles 
 
 ![Danbee]({{ site.baseurl }}/assets/images/dkim.jpg){:class="img-profile"}
 
-Dr. Danbee "Tauntaun" Kim (she/her/they/them) is a Korean-American neuroscientist and teacher who earned her BSc in Brain and Cognitive Sciences from MIT, where they also spent 10 years acting, directing, choreographing, costuming, and writing original content for the MIT Musical Theater Guild. While completing her PhD with Adam Kampff at the Champalimaud Neuroscience Program, Danbee authored of a graphic novel version of their doctoral dissertation called The First VIRS.
+Dr. Danbee "Tauntaun" Kim (she/her/they/them) is a Korean-American neuroscientist and teacher who earned her BSc in Brain and Cognitive Sciences from MIT, where they also spent 10 years acting, directing, choreographing, costuming, and writing original content for the MIT Musical Theater Guild. While completing her PhD with Adam Kampff at the Champalimaud Neuroscience Program, Danbee authored of a graphic novel version of their doctoral dissertation called _The First VIRS_.
 
-Danbee’s current focus is developing a framework for precisely observing nervous systems in increasingly natural settings, aka “field neuroscience”. This includes studying cuttlefish, building interactive exhibits, and using comics and circus as a tool for education and research. To learn more, you can visit www.danbeekim.org.
+Danbee’s current focus is developing a framework for precisely observing nervous systems in ecologically relevant settings, aka “field neuroscience”. This includes studying cuttlefish, building interactive exhibits, and using comics and circus as a tool for education and research. To learn more, you can visit [www.danbeekim.org](http://www.danbeekim.org/).
 
 ## Fiona Zisch
 
