@@ -35,14 +35,6 @@ Dr. Danbee "Tauntaun" Kim (she/her/they/them) is a Korean-American neuroscientis
 
 Danbee’s current focus is developing a framework for precisely observing nervous systems in ecologically relevant settings, aka “field neuroscience”. This includes studying cuttlefish, building interactive exhibits, and using comics and circus as a tool for education and research. To learn more, you can visit [www.danbeekim.org](http://www.danbeekim.org/).
 
-## Fiona Zisch
-
-![Fiona]({{ site.baseurl }}/assets/images/fzisch.jpg){:class="img-profile"}
-
-Dr Fiona Zisch works across architecture, cognitive science, and choreography. Her research explores cognitive ecologies with a focus on intuition and radical embodiment, and how ‘neuroarchitecture’ as a transdisciplinary threshold might develop more radical, critical, and progressive thinking. Wickedness is central to her ethos, where the notion of the threshold and a dynamic space of change offer potential for discovery rather than the delivery of (pre)set outcomes. She draws on and brings together theory and praxis in architecture; cognitive and behavioural neuroscience; experimental psychology; philosophy of mind and neurophilosophy; critical theory; cyberfeminism; and technology, interaction, and performance studies.
-
-After gaining her PhD at the Bartlett School of Architecture and the Institute of Behavioural Neuroscience, UCL, Fiona currently lectures on the Bartlett MArch Design for Performance and Interaction where she runs the Research Pathway ‘Radical Realities’ and leads History and Theory. She is a collaborator in the UCL research group Spierslab and also lectures at the School of Architecture at the University of Innsbruck.
-
 # Collaborators
 
 ## João Frazão
@@ -60,6 +52,14 @@ More recently, João joined the Champalimaud Neuroscience Programme to help desi
 Pavel is a MD. and PhD in Neuroscience (SISSA, Trieste, Italy) with more than 15 years of research experience in the fields of animal and human physiology, and behaviour. He is passionate about developing new tools that make research easier, and more fun. For the past 6 years, Pavel has been working on elucidating the molecular and neuronal mechanisms controlling feeding behaviour in the lab of Carlos Ribeiro at Champalimaud Research, using _Drosophila melanogaster_ as a model organism.
 
 He is the main developer of the flyPAD, an automated device that uses capacitive sensors for high-throughput measurement of feeding behaviour in Drosophila.
+
+## Fiona Zisch
+
+![Fiona]({{ site.baseurl }}/assets/images/fzisch.jpg){:class="img-profile"}
+
+Dr Fiona Zisch works across architecture, cognitive science, and choreography. Her research explores cognitive ecologies with a focus on intuition and radical embodiment, and how ‘neuroarchitecture’ as a transdisciplinary threshold might develop more radical, critical, and progressive thinking. Wickedness is central to her ethos, where the notion of the threshold and a dynamic space of change offer potential for discovery rather than the delivery of (pre)set outcomes. She draws on and brings together theory and praxis in architecture; cognitive and behavioural neuroscience; experimental psychology; philosophy of mind and neurophilosophy; critical theory; cyberfeminism; and technology, interaction, and performance studies.
+
+After gaining her PhD at the Bartlett School of Architecture and the Institute of Behavioural Neuroscience, UCL, Fiona currently lectures on the Bartlett MArch Design for Performance and Interaction where she runs the Research Pathway ‘Radical Realities’ and leads History and Theory. She is a collaborator in the UCL research group Spierslab and also lectures at the School of Architecture at the University of Innsbruck.
 
 # Partners
 
