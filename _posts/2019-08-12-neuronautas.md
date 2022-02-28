@@ -12,6 +12,8 @@ In collaboration with the Champalimaud Foundation, NeuroGEARS received a grant o
 
 The first edition of Neuronautas ran from April until June 2019.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FRCwWx-dlZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 The Neuronautas curriculum focuses on maximizing the quality and depth of personalized, exploratory, and immersive education that we can offer to our students. Using low-cost and open source tools, we teach students how to pose questions about the world around them, then collect and analyse data to address these questions. The scientific and technological content of the Neuronautas curriculum is embedded in the context of science fiction storytelling, in order to also teach the creative yet rigorous imagination and speculation required to conduct science research.
 
 Participants of the Neuronautas program spend an initial phase becoming familiar with the theory, philosophy, and history of Field Neuroscience, while simultaneously learning how to build and maintain their own field neuroscience tools, with a strong contextualization within the open science and open hard/soft-ware movements. During this initial phase, students and teachers will discuss the testable hypotheses available within the field neuroscience framework, then collaboratively design a field neuroscience experiment.
