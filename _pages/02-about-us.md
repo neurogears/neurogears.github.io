@@ -43,6 +43,14 @@ Bruno (he/him) is a neuroscientist who enjoys tinkering and engineering. As an u
 
 While completing his PhD, Bruno also developed an interest for teaching and quick-paced prototyping of experiments. He hopes to put such skills to good use while finding new challenges at NeuroGEARS.
 
+## Andrew Erskine
+
+![Andrew]({{ site.baseurl }}/assets/images/aerskine.png){:class="img-profile"}
+
+Andrew (he/him) is a neuroscientist and software engineer passionate about advancing technologies for research, data science and games. As a PhD student at the Francis Crick Institute he worked on olfactory behaviour in mice, developing the AutonoMouse system for automated, high-throughput behavioural experiments. In his postdoc at the University of Southern California he studied somatosensory processing using head-fixed behaviour, 2-photon imaging, 3D holographic optogenetic stimulation and machine-learning approaches to understand information transfer between cortical layers.
+
+During his research career Andrew has also worked on a wide range of software projects spanning topics such as game AI, multiplayer network architecture and cloud-based solutions for large-scale data analysis.
+
 # Collaborators
 
 ## João Frazão
