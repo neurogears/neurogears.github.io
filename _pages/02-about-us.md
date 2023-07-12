@@ -27,14 +27,6 @@ Is fascinated by technological creativity. Back in 2004 started working in Ylabs
 
 André likes human relationships involving everyone in agile development cycles and working together to a working, professional and affordable solution under realistic development timelines.
 
-## Danbee Kim
-
-![Danbee]({{ site.baseurl }}/assets/images/dkim.jpg){:class="img-profile"}
-
-Dr. Danbee "Tauntaun" Kim (she/her/they/them) is a Korean-American neuroscientist and teacher who earned her BSc in Brain and Cognitive Sciences from MIT, where they also spent 10 years acting, directing, choreographing, costuming, and writing original content for the MIT Musical Theater Guild. While completing her PhD with Adam Kampff at the Champalimaud Neuroscience Program, Danbee authored of a graphic novel version of their doctoral dissertation called _The First VIRS_.
-
-Danbee’s current focus is developing a framework for precisely observing nervous systems in ecologically relevant settings, aka “field neuroscience”. This includes studying cuttlefish, building interactive exhibits, and using comics and circus as a tool for education and research. To learn more, you can visit [www.danbeekim.org](http://www.danbeekim.org/).
-
 ## Bruno Cruz
 
 ![Bruno]({{ site.baseurl }}/assets/images/bcruz-alt.png){:class="img-profile"}
@@ -51,8 +43,6 @@ Andrew (he/him) is a neuroscientist and software engineer passionate about advan
 
 During his research career Andrew has also worked on a wide range of software projects spanning topics such as game AI, multiplayer network architecture and cloud-based solutions for large-scale data analysis.
 
-# Collaborators
-
 ## João Frazão
 
 ![João]({{ site.baseurl }}/assets/images/jfrazao.jpg){:class="img-profile"}
@@ -60,6 +50,16 @@ During his research career Andrew has also worked on a wide range of software pr
 João (he/him) is a roboticist and software engineer with a long experience developing real-time interactive applications. Having worked for pioneer tech startups in robotics and augmented reality, he is used to mixing sensors, actuators, and embedded systems to create next generation human computer interfaces. His projects span many fields, including technologically enhanced dance performances, interactive museums, and autonomous search and rescue robots.
 
 More recently, João joined the Champalimaud Neuroscience Programme to help design high-end systems for electrophysiology. He also collaborated in the development of the Bonsai programming language.
+
+# Collaborators
+
+## Danbee Kim
+
+![Danbee]({{ site.baseurl }}/assets/images/dkim.jpg){:class="img-profile"}
+
+Dr. Danbee "Tauntaun" Kim (she/her/they/them) is a Korean-American neuroscientist and teacher who earned her BSc in Brain and Cognitive Sciences from MIT, where they also spent 10 years acting, directing, choreographing, costuming, and writing original content for the MIT Musical Theater Guild. While completing her PhD with Adam Kampff at the Champalimaud Neuroscience Program, Danbee authored of a graphic novel version of their doctoral dissertation called _The First VIRS_.
+
+Danbee’s current focus is developing a framework for precisely observing nervous systems in ecologically relevant settings, aka “field neuroscience”. This includes studying cuttlefish, building interactive exhibits, and using comics and circus as a tool for education and research. To learn more, you can visit [www.danbeekim.org](http://www.danbeekim.org/).
 
 ## Pavel Itskov
 
