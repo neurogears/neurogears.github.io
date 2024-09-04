@@ -6,7 +6,7 @@ title: "Terms & Conditions"
 
 ## Acceptance of Terms
 
-NeuroGEARS Ltd (“NGR”) offers consulting, research and development, training, installation, repair, and maintenance services to any person (“Client”) under the terms and conditions specified below. The Client agrees that these terms and conditions shall constitute the complete and exclusive agreement between NGR and the Client. Any different, additional, or conflicting conditions of service proposed by the Client shall not be binding, unless expressly agreed to and confirmed by NGR in writing.
+**NeuroGEARS Ltd** (“NGR”) offers consulting, research and development, training, installation, repair, and maintenance services to any person (“Client”) under the terms and conditions specified below. The Client agrees that these terms and conditions shall constitute the complete and exclusive agreement between NGR and the Client. Any different, additional, or conflicting conditions of service proposed by the Client shall not be binding, unless expressly agreed to and confirmed by NGR in writing.
 
 ## Fees and Payment
 
